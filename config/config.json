@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xdf8db5ff72727c591f8ac3d08f7fb6a0b2a00f2e",
+  "SCAN_LINK": "https://polygonscan.com/address/0xdf8db5ff72727c591f8ac3d08f7fb6a0b2a00f2e",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "MATIC",
+    "ID": 137
+  },
+  "NFT_NAME": "Ghoscord",
+  "SYMBOL": "Miscord",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 10000000000000000,
+  "DISPLAY_COST": 0.01,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "NONE",
+  "MARKETPLACE_LINK": "NONE",
+  "SHOW_BACKGROUND": true
+}
